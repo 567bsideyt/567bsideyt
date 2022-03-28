@@ -31,6 +31,25 @@ jobs:
 
       # Runs a set of commands using the runners shell
       - name: Run a multi-line script
-        run: |
-          echo Add other actions to build,
+        run: |mouse xml /BOYFRIEND.xml/pico gay.xml
+Friday night funkin psych engine
+123/390/678 beta #run camera smooth
+#custom controls lmao add#
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+  # Allows you to run this 
+(Main soft menu project add)
+  Name app:friday night funkin psych engine
+Name:forked from jigsaw 0.4.2
+Info:com.shadowmario.psychengine
+Add build
+Android cl build android/open app test
+Add character: BOYFRIEND.xml pico gay.xml
+Custom characters:mouse.xml add to template 1
+Custom controlls :hitbox custom pad downscroll middscrolls
+Imput:none
+Settings:anti instalasing low quality watermark
+Bug found:1 watermark do not work:/   echo Add other actions to build,
           echo test, and deploy your project.
