@@ -13,3 +13,6 @@ Im a kade psych porter im curenly learning coder
 Im kinda bad at optimized
 Files sprite
 Btw im will making some good
+
+Subs my youtube :https://youtube.com/channel/UC1IQQIsj7PN_rwZ1em3f2Uw
+My old channel
