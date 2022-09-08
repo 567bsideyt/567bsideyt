@@ -13,4 +13,5 @@ New name:b side yt
 
 IM CURRENTLY 15YEARS OLD. XDDD
 
-🇨🇿yessss
+yessss ALWAYS join ma discord sevar 
+hey come check out Discord with me https://discord.gg/W9chtBR2hd
